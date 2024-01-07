@@ -1,4 +1,4 @@
-# 🚀 MyCppProject
+# 🚀 CPP Master works
 
 ### 📝 Description:
 Welcome to MyCppProject! This repository hosts a collection of C++ programs and projects. Whether you're a beginner looking to explore C++ fundamentals or an experienced developer seeking advanced concepts, this repository aims to provide a comprehensive set of resources and examples.
